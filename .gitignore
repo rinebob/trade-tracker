@@ -41,3 +41,16 @@ testem.log
 .DS_Store
 Thumbs.db
 src/assets/secrets/fb-config.ts
+
+/node_modules
+/dist
+.angular
+
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json
+src/secrets/secrets.ts
+functions_js.txt
+.firebase/trade-tracker-f3f2c/node_modules
+.firebase/trade-tracker-f3f2c
